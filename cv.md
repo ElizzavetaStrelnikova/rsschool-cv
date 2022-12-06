@@ -1,4 +1,4 @@
-# ![photo](/photo.jpg rsschool-cv\photo.jpg"photo") **Elizaveta Strelnikova**
+# ![photo]( /photo.jpg "photo") **Elizaveta Strelnikova**
 *********
 ## ***Junior Frontend Developer***
 
