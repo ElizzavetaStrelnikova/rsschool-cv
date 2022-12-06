@@ -1,4 +1,4 @@
-# ![photo]( /rsschool-cv/photo.jpg "photo" width="200" height="200") **Elizaveta Strelnikova**
+# ![photo]( /rsschool-cv/photo.jpg "photo" )  **Elizaveta Strelnikova**
 *********
 ## ***Junior Frontend Developer***
 
