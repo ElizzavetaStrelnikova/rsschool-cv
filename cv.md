@@ -1,7 +1,7 @@
 # **Elizaveta Strelnikova**
-*********
+
 ## ***Junior Frontend Developer***
-*********
+
 ### **Contact Information**
 * **Phone** +90 535 422 30 46
 * **Email** elizaveta.strelnikova357@gmail.com
