@@ -7,7 +7,7 @@
 * Email elizaveta.strelnikova357@gmail.com
 * Telegram @ElizavetaEvgenyevna8
 * [LinkedIn](https://www.linkedin.com/in/elizavetaevgenyevna/) 
-* Discord @ElizzavetaStrelnikova
+* Discord Liza (@ElizzavetaStrelnikova)
 
 *********
 ### **About me**
