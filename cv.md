@@ -1,4 +1,4 @@
-# **Elizaveta Strelnikova**
+# [photo](C:\Users\fomen\Desktop\projects\rs_school\rsschool-cv**Elizaveta Strelnikova**
 *********
 ## ***Junior Frontend Developer***
 =====
