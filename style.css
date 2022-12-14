@@ -1,5 +1,178 @@
-div {
-    width: 200px; 
-    margin: 10px; 
-    float: left; 
+@font-face {
+  font-family: 'Oswald';
+   src: url("assets/fonts/Oswald/Oswald-VariableFont_wght.ttf");
+ }
+ @font-face {
+  font-family: 'Raleway';
+   src: url("assets/fonts/Raleway/Raleway-VariableFont_wght.ttf");
+ }
+ h1,h2 {
+  font-family: 'Oswald';
+  font-variant: small-caps;
+ }
+ html {
+  display: block;
+  background-color: #A9A9A9;
+ }
+ body {
+  font-family: 'Raleway';
+  display: grid;
+  grid-template-columns: 350px 1fr;
+  margin:0 auto; 
+  max-width: 1240px;
+  color:white;
+ }
+ * {
+  box-sizing: border-box;
+}
+.header {
+  height: 20%;
+  background-color: white;
+}
+.aside {
+  width: 350px;
+  height: 100%;
+   background-color: #2F4F4F;
+  margin: 0 auto;
+  border-style: none;
+}
+.main {
+  height:70%;
+  background-color: white;
+}
+.footer {
+  height:10%;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px;
+  color: black;
+  font-size: 20px;
+}
+#gitlogo {
+  height: 30px;
+  width:1px;
+  display: flex;
+  margin:0 auto;
+  width: 40%;
+  border-radius: 30%;
+} 
+#rsschool-logo {
+  width:40%;
+  margin: 0 auto;
+}
+#footer-rsschool.container {
+  width:30%;
+  margin: 20px;
+}
+a {
+  text-decoration: none;
+}
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+.section {
+  margin: 0 auto;
+  align-content: center;
+}
+@media (max-width: 768px) {
+  .section {
+    width: 100%;
   }
+}
+#photo {
+  height:25%;
+}
+#myphoto {
+  height: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:20px;
+  width: 50%;
+  border-radius: 30%;
+}
+.aside-title {
+  color: white;
+  text-align:center;
+  font-family: 'Oswald';
+  font-variant: small-caps;
+  text-transform: uppercase;
+  margin: 0 auto;
+}
+hr {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  margin:0 auto;
+}
+#contacts {
+  height: 20%;
+  padding:20px 0px;
+}
+#link {
+  color:white;
+}
+li {
+  text-align: left;
+}
+#education {
+  height: 20%;
+  padding:30px 0px;
+}
+#skills {
+  height: 30%;
+  padding:30px 0px;
+}
+.header-title {
+  color: black;
+  text-align:center;
+  font-family: 'Oswald';
+  font-variant: small-caps;
+  text-transform: uppercase;
+  margin: 0 auto;
+  font-size: 50px;
+}
+.main-title {
+  color: black;
+  text-align:center;
+  font-family: 'Oswald';
+  font-variant: small-caps;
+  text-transform: uppercase;
+  margin: 0 auto;
+}
+.nav-list {
+  display: inline-block;
+  height:10px;
+  padding:0px 60px;
+} 
+#navagation-list {
+  margin:0 auto;
+}
+#profile {
+  height: 90%;
+}
+#summary {
+  height:30%;
+}
+p {
+  color:black;
+  text-align: justify;
+  font-size: 16px;
+  margin: 30px;
+}
+pre {
+  color: white;
+  font-size: 18px;
+  background-color: black;
+  margin: 40px;
+}
+#code {
+  height: 40%;
+}
+#languages {
+  height: 30%;
+  color:black;
+}
