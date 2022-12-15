@@ -11,7 +11,7 @@
 <body>
   <aside class="aside">
       <section class="section" id="photo">
-        <img id='myphoto' src="/rsschool-cv/assets/img/photo_2022-12-12_22-35-07.jpg" alt="photo">
+        <div> <img id='myphoto' src="/rsschool-cv/assets/img/photo_2022-12-12_22-35-07.jpg" alt="photo"></div>
       </section>
       <section class="section" id="contacts">
         <h2 class=".section-title aside-title" >Contact me</h2>
@@ -47,14 +47,16 @@
   <div class="main-container">
     <header class = "header">
       <section class="section" id="navigation">
-        <nav> 
-          <ul id="navagation-list">
-            <li class="nav-list"><a href="#summary">Summary</a></li>
-            <li class="nav-list"><a href="#code">Code</a></li>
-            <li class="nav-list"><a href="#languages">Languages</a></li>
-            <li class="nav-list"><a href="#references">References</a></li>
-          </ul>
-        </nav>
+        <div>
+          <nav> 
+            <ul id="navagation-list">
+              <li class="nav-list"><a href="#summary">Summary</a></li>
+              <li class="nav-list"><a href="#code">Code</a></li>
+              <li class="nav-list"><a href="#languages">Languages</a></li>
+              <li class="nav-list"><a href="#references">References</a></li>
+            </ul>
+          </nav>
+        </div>
       </section>
         <section class="section" id="profile">
           <h1 class=".section-title header-title">Elizaveta Strelnikova</h1>
@@ -70,13 +72,11 @@
         <section class="section" id="code">
           <h2 class=".section-title main-title">Code Example</h2>
           <hr>
-          <code>
-            <pre>
-              This code does not execute properly. Try to figure out why.
-              function multiply(a, b){
-                return a * b;
-              }
-            </pre>
+          <code id="code-example">
+              <p>This code does not execute properly. Try to figure out why.</p>
+              <p>function multiply(a, b){</p>
+                <p>return a * b;</p>
+                <p>}</p>
           </code>
         </section>
         <section class="section" id="languages">
