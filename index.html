@@ -10,9 +10,9 @@
 </head>
 <body>
   <aside class="aside">
-      <section class="section" id="photo">
-        <div> <img id='myphoto' src="/rsschool-cv/assets/img/photo_2022-12-12_22-35-07.jpg" alt="photo"></div>
-      </section>
+      <div class="section" id="photo">
+        <img id='myphoto' src="/rsschool-cv/assets/img/photo_2022-12-12_22-35-07.jpg" alt="photo">
+      </div>
       <section class="section" id="contacts">
         <h2 class=".section-title aside-title" >Contact me</h2>
         <hr>
@@ -46,8 +46,7 @@
   </aside>
   <div class="main-container">
     <header class = "header">
-      <section class="section" id="navigation">
-        <div>
+        <div class="section" id="navigation">
           <nav> 
             <ul id="navagation-list">
               <li class="nav-list"><a href="#summary">Summary</a></li>
@@ -56,8 +55,7 @@
               <li class="nav-list"><a href="#references">References</a></li>
             </ul>
           </nav>
-        </div>
-      </section>
+      </div>
         <section class="section" id="profile">
           <h1 class=".section-title header-title">Elizaveta Strelnikova</h1>
           <h2 class=".section-title main-title">Junior Frontend Developer</h2>
@@ -72,12 +70,14 @@
         <section class="section" id="code">
           <h2 class=".section-title main-title">Code Example</h2>
           <hr>
-          <code id="code-example">
-              <p>This code does not execute properly. Try to figure out why.</p>
-              <p>function multiply(a, b){</p>
-                <p>return a * b;</p>
-                <p>}</p>
-          </code>
+          <pre>
+            <code id="code-example">
+              This code does not execute properly. Try to figure out why.
+                function multiply(a, b) {
+                  return a * b;
+                  }
+            </code>
+          </pre>
         </section>
         <section class="section" id="languages">
           <h2 class=".section-title main-title">Languages</h2>
