@@ -1,2 +1,2 @@
-https://github.com/ElizzavetaStrelnikova/rsschool-cv/tree/cv html
-https://github.com/ElizzavetaStrelnikova/rsschool-cv/cv md
+https://GITHUB-USERNAME.github.io/rsschool-cv/cv
+https://GITHUB-USERNAME.github.io/rsschool-cv/
