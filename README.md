@@ -1,2 +1,2 @@
-https://ElizzavetaStrelnikova.github.io/rsschool-cv/
-https://ElizzavetaStrelnikova.github.io/rsschool-cv/cv
+https://github.com/ElizzavetaStrelnikova/rsschool-cv/tree/rsschool-cv-html/cv%20html
+https://github.com/ElizzavetaStrelnikova/rsschool-cv/tree/rsschool-cv-html/cv%20md
